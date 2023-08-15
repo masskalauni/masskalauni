@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Mass Kalauni</h1>
+<h1 align="center">Hello,I'm Mass Kalauni</h1>
 <h3 align="center">WEB DEVELOPER FROM NEPAL</h3>
 
 <h3 align="left">Connect with me:</h3>
