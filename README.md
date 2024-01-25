@@ -1,11 +1,23 @@
-<h1 align="center">Hello,I'm Mass Kalauni</h1>
-<h3 align="center">WEB DEVELOPER FROM NEPAL</h3>
+### Hi there! 👋
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/prem.kalauni.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prem.kalauni.7/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/crazymass83/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://wwww.instagram.com/tilakjoshii/](https://www.instagram.com/crazymass83/)" height="30" width="40" /></a>
-</p>
+I'm a web developer with hands-on experience in building dynamic websites and applications. My expertise lies in HTML, CSS, and JavaScript, and I enjoy creating seamless and user-friendly digital experiences.
 
+#### 💻 Tech Stack:
 
+- HTML
+- CSS
+- JavaScript
+
+#### 🌐 What I Do:
+
+I specialize in crafting engaging and responsive web solutions, ensuring a smooth user experience across devices.
+
+#### 🚀 Currently Exploring:
+
+I'm on a continuous journey to explore new technologies and frameworks to enhance my development skills.
+
+#### 📫 Let's Connect:
+
+Feel free to connect with me on [LinkedIn](Your LinkedIn Profile) or [Twitter](Your Twitter Handle). I'm always open to discussions, collaborations, and new opportunities.
+
+Happy coding! 🌟
