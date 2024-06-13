@@ -2,7 +2,7 @@
 
 I'm [Mass Kalauni], a web developer with a flair for crafting captivating online experiences.
 
-🚀 **Skills:** HTML | CSS | JavaScript | React | Wordpress | C# | Java | Python | 
+🚀 **Skills:** HTML | CSS | JavaScript | React | Wordpress | C# | Java | Python | | Machine Learning
 
 🌱 **Currently:** Exploring new ways to code and create.
 
