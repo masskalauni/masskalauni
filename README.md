@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm [Mass Kalauni], a web developer with a flair for crafting captivating online experiences.
+I'm [Mass Kalauni], a  developer with a flair for crafting captivating online experiences.
 
 🚀 **Skills:** HTML | CSS | JavaScript | React | Wordpress | C# | Java | Python | | Machine Learning
 
