@@ -43,7 +43,7 @@
 ## 🌎 Let's Connect  
 📧 Email: [masskalauni@gmail.com](mailto:masskalauni@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/masskalauni](https://linkedin.com/in/masskalauni)  
-🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
+🐦 Twitter: [twitter.com/MassKalauni](https://twitter.com/MassKalauni)  
 📢 **If you like my work, consider giving a ⭐ to my projects!**  
 
 ---
