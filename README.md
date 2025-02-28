@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"></a>
+  <a href="https://github.com/masskalauni"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"></a>
 </p>
 
 ---
