@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Prem Prakash Kalauni 👋</h1>
 
 <p align="center">
-🚀 Full-Stack Developer | AI & Data Science Enthusiast | IT Student  
+🚀 Computer Science | AI & Data Science Enthusiast | IT Student  
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/masskalauni"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/masskalauni"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"></a>
+  <a href="mailto:masskalauni@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/masskalauni"><img src="https://img.shields.io/github/followers/masskalauni?label=Followers&style=social"></a>
 </p>
 
 ---
@@ -36,13 +36,13 @@
 🔹 **Emotion-Based Search Engine (In Progress)** – Search results based on user emotions 🤖  
 🔹 **Plant Disease Prediction System** – CNN-powered image classification for plant diseases 🌱  
 
-📌 **Check out all my projects here:** [GitHub Repositories](https://github.com/your-username?tab=repositories)  
+📌 **Check out all my projects here:** [GitHub Repositories](https://github.com/masskalauni?tab=repositories)  
 
 ---
 
 ## 🌎 Let's Connect  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📧 Email: [masskalauni@gmail.com](mailto:masskalauni@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/masskalauni](https://linkedin.com/in/masskalauni)  
 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
 📢 **If you like my work, consider giving a ⭐ to my projects!**  
 
